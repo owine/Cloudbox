@@ -6,3 +6,6 @@ rules:
   - base: develop
     upstream: cloudbox:develop
     mergeMethod: hardreset
+  - base: develop_python3
+    upstream: cloudbox:develop_python3
+    mergeMethod: hardreset
